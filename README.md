@@ -1,5 +1,18 @@
 # MachineLearning
 
-[MLfromscratch](https://github.com/patrickloeber/MLfromscratch)
+From __MLfromscratch__ <https://github.com/patrickloeber/MLfromscratch>
 
-을 통한 머신러닝 따라잡기!
+
+### Algorithms Implemented
+- KNN
+- Linear Regression
+- Logistic Regression
+- Naive Bayes
+- Perceptron
+- SVM
+- Decision Tree
+- Random Forest
+- Principal Component Analysis (PCA)
+- K-Means
+- AdaBoost
+- Linear Discriminant Analysis (LDA)
